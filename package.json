@@ -16,6 +16,7 @@
     "wa-map-optimizer-vite": "^1.1.14"
   },
   "dependencies": {
-    "@workadventure/scripting-api-extra": "^1.4.6"
+    "@workadventure/scripting-api-extra": "^1.4.6",
+    "start": "^5.1.0"
   }
 }
