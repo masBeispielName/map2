@@ -3349,7 +3349,7 @@
         {
           "name": "openWebsite",
           "type": "string",
-          "value": "https://docs.google.com/forms/d/e/1FAIpQLSdLIwUPpWPhnwSwW74nkFBq0OGp9iki0K2AuiuSzzMeq6erNQ/viewform?usp=sf_link"
+          "value": "https://docs.google.com/forms/d/e/1FAIpQLSeohk_Xfams9l-gAUet2JEPm2EhFOvAi6FNasjwPzHpEadFNw/viewform?usp=sf_link"
         }
       ],
       "x": 0,
@@ -5043,7 +5043,7 @@
         0,
         0,
         0,
-        0,
+        3,
         3,
         3,
         3,
@@ -5105,11 +5105,11 @@
         0,
         0,
         0,
-        0,
         3,
         3,
         3,
         3,
+        3,
         0,
         0,
         0,
@@ -5136,7 +5136,7 @@
         0,
         0,
         0,
-        0,
+        3,
         3,
         3,
         3,
@@ -14322,9 +14322,9 @@
           "id": 20,
           "name": "escape_door",
           "visible": true,
-          "x": 240.167668337759,
-          "y": 439.156876283123,
-          "height": 157.23474884297,
+          "x": 364.167668337759,
+          "y": 498.156876283123,
+          "height": 111.542222921769,
           "properties": [
             {
               "name": "closeLayer",
@@ -14349,7 +14349,7 @@
           ],
           "rotation": 0.802698082973679,
           "type": "variable",
-          "width": 632.026746498355
+          "width": 538.37743750496
         }
       ],
       "opacity": 0.9,
@@ -16380,7 +16380,7 @@
     {
       "columns": 10,
       "firstgid": 1,
-      "image": "map-chunk-1-4176cbfd.png",
+      "image": "map-chunk-1-07f1a6ee.png",
       "imageheight": 320,
       "imagewidth": 320,
       "margin": 0,
